@@ -41,11 +41,11 @@ Mỗi lần nhấn nút, ứng dụng sẽ:
 ```bash
 npm install
 
-### Thông tin
+## Thông tin
 - họ tên:Ngô Hoàng Long
 -msv:23810310184
 -lớp:D18CNPM4
-### Kết quả
+## Kết quả
 
 ![den](https://github.com/user-attachments/assets/7fc46147-0dbc-4029-a3e6-1c4818b35a6c)
 
